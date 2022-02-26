@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StereoKit.Samples.AzureObjectAnchors", "StereoKit.Samples.AzureObjectAnchors.csproj", "{79B99538-5F0C-4785-82FC-61BF54B9021B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79B99538-5F0C-4785-82FC-61BF54B9021B}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{79B99538-5F0C-4785-82FC-61BF54B9021B}.Debug|ARM64.Build.0 = Debug|ARM64
+		{79B99538-5F0C-4785-82FC-61BF54B9021B}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{79B99538-5F0C-4785-82FC-61BF54B9021B}.Debug|x64.ActiveCfg = Debug|x64
+		{79B99538-5F0C-4785-82FC-61BF54B9021B}.Debug|x64.Build.0 = Debug|x64
+		{79B99538-5F0C-4785-82FC-61BF54B9021B}.Debug|x64.Deploy.0 = Debug|x64
+		{79B99538-5F0C-4785-82FC-61BF54B9021B}.Release|ARM64.ActiveCfg = Release|ARM64
+		{79B99538-5F0C-4785-82FC-61BF54B9021B}.Release|ARM64.Build.0 = Release|ARM64
+		{79B99538-5F0C-4785-82FC-61BF54B9021B}.Release|ARM64.Deploy.0 = Release|ARM64
+		{79B99538-5F0C-4785-82FC-61BF54B9021B}.Release|x64.ActiveCfg = Release|x64
+		{79B99538-5F0C-4785-82FC-61BF54B9021B}.Release|x64.Build.0 = Release|x64
+		{79B99538-5F0C-4785-82FC-61BF54B9021B}.Release|x64.Deploy.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {488478F5-7E5F-49E0-B09F-FAC813BCAF98}
+	EndGlobalSection
+EndGlobal
